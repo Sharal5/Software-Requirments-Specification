@@ -7,6 +7,7 @@ git branch -M main
 git remote add origin https://github.com/Sharal5/gitdetails.git
 git push -u origin main
 
+
 github
 ========
 git remote add origin https://github.com/Sharal5/gitdetails.git
